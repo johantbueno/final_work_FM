@@ -15,11 +15,8 @@ The application is designed for ease of use: upon inputting the biomarker metric
 
 Clone the repository:
 
-git clone git@github.com:rupeshghimire7/Liver_Cirrhosis_Prediction.git
-Go to liver-cirrhosis-prediction file
-
-cd liver-cirrhosis-prediction
-Install the required dependencies using pip:
+git clone https://github.com/johantbueno/final_work_FM.git
+Go to Final project file
 
 pip install -r requirements.txt
 Run the Flask application:
