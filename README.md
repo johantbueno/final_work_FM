@@ -11,6 +11,7 @@ Hepatomegaly: The presence or absence of an enlarged liver.
 Spiders: The presence or absence of spider angiomas, a distinctive vascular manifestation on the skin.
 Bilirubin, Cholesterol, Albumin, Copper, Triglycerides, Platelets, Prothrombin: Quantitative measurements of these substances in the blood, each offering insights into liver function and health.
 The application is designed for ease of use: upon inputting the biomarker metrics, the system swiftly generates a prediction regarding liver cirrhosis presence, drawing on a rich dataset encompassing a wide array of patient profiles. The model's accuracy is underpinned by machine learning techniques, ensuring reliable and precise predictions.
+![image](https://github.com/johantbueno/final_work_FM/assets/109690188/364b6de2-642e-48f4-99c0-430c2e6d5a43)
 
 bash
 cd liver-cirrhosis-prediction
