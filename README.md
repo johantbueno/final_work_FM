@@ -1,4 +1,4 @@
-# The Liver Cirrhosis Prediction project represents a significant stride in medical diagnostics and is a pivotal capstone project for the Fusemachines AI Fellowship in Machine Learning. This innovative endeavor leverages advanced predictive modeling to ascertain the progression stage of liver cirrhosis by analyzing a spectrum of patient biomarkers.
+# The Liver Cirrhosis Prediction project represents a significant stride in medical diagnostics and is a pivotal capstone project. This innovative endeavor leverages advanced predictive modeling to ascertain the progression stage of liver cirrhosis by analyzing a spectrum of patient biomarkers.
 
 Contained within this project are two principal components: an Exploratory Data Analysis (EDA) segment, which delves into the underlying data patterns and distributions, and a Prediction segment, which utilizes machine learning to forecast the stage of cirrhosis.
 
