@@ -13,24 +13,21 @@ Bilirubin, Cholesterol, Albumin, Copper, Triglycerides, Platelets, Prothrombin: 
 The application is designed for ease of use: upon inputting the biomarker metrics, the system swiftly generates a prediction regarding liver cirrhosis presence, drawing on a rich dataset encompassing a wide array of patient profiles. The model's accuracy is underpinned by machine learning techniques, ensuring reliable and precise predictions.
 ![image](https://github.com/johantbueno/final_work_FM/assets/109690188/364b6de2-642e-48f4-99c0-430c2e6d5a43)
 
-bash
-cd liver-cirrhosis-prediction
-Install the necessary Python dependencies listed in requirements.txt:
+Clone the repository:
 
+git clone git@github.com:rupeshghimire7/Liver_Cirrhosis_Prediction.git
+Go to liver-cirrhosis-prediction file
+
+cd liver-cirrhosis-prediction
+Install the required dependencies using pip:
 
 pip install -r requirements.txt
-Launch the Flask application by running the following command in the service directory:
+Run the Flask application:
 
-
+cd service
 python app.py
-Alternatively, for systems with Python 3 as the non-default interpreter:
-
+OR:
 
 python3 app.py
-Access the web-based interface via http://127.0.0.1:5000/predict in your browser.
-
-Input the biomarker data into the respective fields provided on the web page.
-
-Click "Predict" to receive the assessment of liver cirrhosis risk.
 
 This project not only represents a culmination of academic pursuit but also serves as a tool with the potential to enhance patient outcomes through early and accurate diagnosis.
