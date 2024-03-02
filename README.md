@@ -12,31 +12,19 @@ Spiders: The presence or absence of spider angiomas, a distinctive vascular mani
 Bilirubin, Cholesterol, Albumin, Copper, Triglycerides, Platelets, Prothrombin: Quantitative measurements of these substances in the blood, each offering insights into liver function and health.
 The application is designed for ease of use: upon inputting the biomarker metrics, the system swiftly generates a prediction regarding liver cirrhosis presence, drawing on a rich dataset encompassing a wide array of patient profiles. The model's accuracy is underpinned by machine learning techniques, ensuring reliable and precise predictions.
 
-How to Use the Application:
-
-To utilize the Liver Cirrhosis Prediction application, follow these steps:
-
-Clone the project repository from GitHub:
-
-scss
-Copy code
-git clone git@github.com:rupeshghimire7/Liver_Cirrhosis_Prediction.git
-Navigate to the application directory:
-
 bash
-Copy code
 cd liver-cirrhosis-prediction
 Install the necessary Python dependencies listed in requirements.txt:
 
-Copy code
+
 pip install -r requirements.txt
 Launch the Flask application by running the following command in the service directory:
 
-Copy code
+
 python app.py
 Alternatively, for systems with Python 3 as the non-default interpreter:
 
-Copy code
+
 python3 app.py
 Access the web-based interface via http://127.0.0.1:5000/predict in your browser.
 
@@ -45,11 +33,3 @@ Input the biomarker data into the respective fields provided on the web page.
 Click "Predict" to receive the assessment of liver cirrhosis risk.
 
 This project not only represents a culmination of academic pursuit but also serves as a tool with the potential to enhance patient outcomes through early and accurate diagnosis.
-
-
-
-
-Mensaje ChatGPT…
-
-
-ChatGPT puede cometer errores. Considera verificar la información imp
